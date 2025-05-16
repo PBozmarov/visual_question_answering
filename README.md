@@ -14,7 +14,7 @@ To view the README.md file in a more readable format:
 
 ```
 .
-├── Siteground
+├── visual_question_answering
 ├── images # folder with sample images and predictions/
 │   ├── fast_predictions/... # generated captions using the fast model
 │   ├── normal_predictions/... # generated descriptions using the normal model
@@ -31,7 +31,7 @@ To view the README.md file in a more readable format:
 
 ## Installation
 
-First, go to the Siteground folder using **cd**. Then, Install the required packages using the following command:
+First, go to the main (visual_question_answering) folder using **cd**. Then, Install the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
